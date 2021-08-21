@@ -30,7 +30,7 @@ sections:
       Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id.
       Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus
       porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh eu
-    image: /images/5307d1df23eb389bb31a6cfe43def861 (5).png
+    image: /images/21ecc2f26e2641c8e9aae5479481bbe2 (3).png
     image_alt: test
   - title: Recent Posts
     section_id: posts
