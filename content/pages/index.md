@@ -62,7 +62,7 @@ sections:
       massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet.
 seo:
-  description: The preview of the Vanilla theme
+  description: 'Mobil-accessible '
   extra:
     - name: 'og:type'
       value: website
