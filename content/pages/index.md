@@ -86,5 +86,6 @@ seo:
     - name: 'twitter:image'
       value: images/vanilla-preview.png
       relativeUrl: true
+  title: 'Mobil-accessible '
 layout: advanced
 ---
