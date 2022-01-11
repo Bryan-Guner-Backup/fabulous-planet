@@ -37,11 +37,11 @@ sections:
     type: section_posts
     has_more_link: true
     more_link_text: Read more
-  - title: A Cat
-    section_id: cat
+  - title: CV
+    section_id: Cv
     type: section_content
     image: /images/cover-letter.PNG
-    image_alt: Geometric pattern
+    image_alt: Cover letter
     content: >-
       Hi this is my text and image block. Vis accumsan feugiat adipiscing nisl
       amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus
@@ -62,8 +62,7 @@ sections:
       massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet.
 seo:
-  title: Stackbit Vanilla Theme
-  description: The preview of the Vanilla theme
+  description: 'Mobil-accessible '
   extra:
     - name: 'og:type'
       value: website
@@ -75,7 +74,7 @@ seo:
       value: The preview of the Vanilla theme
       keyName: property
     - name: 'og:image'
-      value: images/vanilla-preview.png
+      value: /images/BFE9470D-BB44-4580-9F63-1ED21D85E99D.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -87,5 +86,6 @@ seo:
     - name: 'twitter:image'
       value: images/vanilla-preview.png
       relativeUrl: true
+  title: 'Mobil-accessible '
 layout: advanced
 ---
