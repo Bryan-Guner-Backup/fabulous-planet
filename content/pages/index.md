@@ -38,7 +38,7 @@ sections:
     has_more_link: true
     more_link_text: Read more
   - title: CV
-    section_id: cat
+    section_id: Cv
     type: section_content
     image: /images/cover-letter.PNG
     image_alt: Geometric pattern
