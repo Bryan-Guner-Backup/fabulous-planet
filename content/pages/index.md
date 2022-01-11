@@ -74,7 +74,7 @@ seo:
       value: The preview of the Vanilla theme
       keyName: property
     - name: 'og:image'
-      value: images/vanilla-preview.png
+      value: /images/BFE9470D-BB44-4580-9F63-1ED21D85E99D.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
