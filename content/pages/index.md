@@ -41,7 +41,7 @@ sections:
     section_id: Cv
     type: section_content
     image: /images/cover-letter.PNG
-    image_alt: 'Geometric patternYea '
+    image_alt: Cover letter
     content: >-
       Hi this is my text and image block. Vis accumsan feugiat adipiscing nisl
       amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus
